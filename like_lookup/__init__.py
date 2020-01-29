@@ -1,4 +1,4 @@
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 from django.db.models import Lookup
 from django.db.models.fields import Field
