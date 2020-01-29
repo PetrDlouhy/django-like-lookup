@@ -31,7 +31,7 @@ Add it to your `INSTALLED_APPS`:
 
     INSTALLED_APPS = (
         ...
-        'like_lookup.apps.LikeLookupConfig',
+        'like_lookup',
         ...
     )
 
